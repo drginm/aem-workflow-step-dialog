@@ -1,0 +1,9 @@
+{
+  "generator-aem-application": {
+    "promptValues": {
+      "mavenAppsModuleName": "ui.apps",
+      "mavenBundleModuleName": "core",
+      "javaRootPackageName": "co.dlighthouse.aem.workflowstepdialog.core"
+    }
+  }
+}
